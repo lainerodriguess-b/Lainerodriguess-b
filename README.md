@@ -1,29 +1,23 @@
 <h2> Oi, eu sou a Laine Rodrigues! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="./cat.gif" width="300">
+<img align='right' src="./cat.gif" width="250">
 
 </br>Graduanda do curso de bacharelado em Ciência da Computação<a href="https://ifgoiano.edu.br/home/index.php">IF GOIANO </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/laine-rodrigues-barros-814124429/"><img scr="https://img.magnific.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg?semt=ais_test_b&w=740&q=80"></a>
+<a href="https://www.linkedin.com/in/laine-rodrigues-barros-814124429/"><img src="https://img.magnific.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg?semt=ais_test_b&w=740&q=80" width="30"></a>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+const Laine = {
+  Ferramentas: [ Python, C],
+  Hobbies: [Leitura, Música, Filmes e Jogos],
+  Formação: [TECNICA EM QUÍMICA]
+  }
+
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://ugokawaii.com/wp-content/uploads/2023/03/reading.gif" width="60"> <em><b> "Tudo o que temos de decidir é o que fazer com o tempo que nos é dado!"-O senhor dos anéis</b> :)</em>
 
 ---
